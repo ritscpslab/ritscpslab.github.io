@@ -18,7 +18,7 @@
     "href": "index.html#news",
     "title": "サイバーフィジカルシステム研究室",
     "section": "News",
-    "text": "News\n\n\n\n\n\n\n\n\n🥳 IEEE Control Systems Lettersに論文が採録されました\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎓 2023年度 卒業・修了式\n\n\n\n\n\n\n\n\n\nMar 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🕺MSCS 2024にて河田が発表しました\n\n\n\n\n\n\n\n\n\nMar 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🕺RCC 12月研究会で西田が発表しました\n\n\n\n\n\n\n\n\n\nDec 21, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "News\n\n\n\n\n\n\n\n\n🎉 システム制御情報学会学会賞 論文賞を受賞しました\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🥳 IEEE Control Systems Lettersに論文が採録されました\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎓 2023年度 卒業・修了式\n\n\n\n\n\n\n\n\n\nMar 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🕺MSCS 2024にて河田が発表しました\n\n\n\n\n\n\n\n\n\nMar 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🕺RCC 12月研究会で西田が発表しました\n\n\n\n\n\n\n\n\n\nDec 21, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/20240322.html",
@@ -28,6 +28,13 @@
     "text": "2023年度の卒業式，修了式がありました． 本研究室からは学士8名が卒業されました．おめでとうございます．\nまた，河田君が計測自動制御学会 優秀学生賞を受賞しました．おめでとうございます．"
   },
   {
+    "objectID": "posts/20231221.html",
+    "href": "posts/20231221.html",
+    "title": "🕺RCC 12月研究会で西田が発表しました",
+    "section": "",
+    "text": "沖縄で行われた，電子情報通信学会 高信頼制御通信研究専門委員会 (RCC) 12月研究会にて，M1の西田が発表しました．\n\n\n\n\n\n\n学会発表\n\n\n\n西田隼平, 岡野訓尚, “アクチュエーション信号の伝達コストを考慮した最適制御,” 2023年12月高信頼制御通信研究会, pp. 76–79, みんなの貸会議室 那覇泉崎店, 2023年12月. (信学技法 RCC2023-36)"
+  },
+  {
     "objectID": "posts/20240515.html",
     "href": "posts/20240515.html",
     "title": "🥳 IEEE Control Systems Lettersに論文が採録されました",
@@ -35,11 +42,11 @@
     "text": "Journal paper\n\n\n\nShumpei Nishida and Kunihisa Okano, “Feedback control balancing quadratic performance and input sparsity,” IEEE Control Systems Letters, 2024 (accepted)."
   },
   {
-    "objectID": "posts/20231221.html",
-    "href": "posts/20231221.html",
-    "title": "🕺RCC 12月研究会で西田が発表しました",
+    "objectID": "posts/20240524.html",
+    "href": "posts/20240524.html",
+    "title": "🎉 システム制御情報学会学会賞 論文賞を受賞しました",
     "section": "",
-    "text": "沖縄で行われた，電子情報通信学会 高信頼制御通信研究専門委員会 (RCC) 12月研究会にて，M1の西田が発表しました．\n\n\n\n\n\n\n学会発表\n\n\n\n西田隼平, 岡野訓尚, “アクチュエーション信号の伝達コストを考慮した最適制御,” 2023年12月高信頼制御通信研究会, pp. 76–79, みんなの貸会議室 那覇泉崎店, 2023年12月. (信学技法 RCC2023-36)"
+    "text": "システム制御情報学会論文誌に掲載された下記論文が，システム制御情報学会学会賞 論文賞に選ばれました．\n本論文は，イベントトリガ制御系において，イベント発生時刻の情報を有限データレートで表現することにより，極低ビットの情報量で制御系の安定化が可能になることを明らかにしたものです．\n共著者の皆様，本論文を評価してくださった学会関係者の皆様に感謝申し上げます．\n\n\n\n\n\n\nJournal paper\n\n\n\n諏訪棟植, 岡野訓尚, 平田健太郎, 中村幸紀, “通信タイミングと有限データレート信号による離散時間線形システムの安定化,” システム制御情報学会論文誌, vol. 36, no. 2, pp. 40–47, 2023."
   },
   {
     "objectID": "posts/20240318.html",
