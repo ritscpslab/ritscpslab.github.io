@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "posts/20240628.html",
+    "href": "posts/20240628.html",
+    "title": "🕺ECC24にて西田が発表しました",
+    "section": "",
+    "text": "KTH Royal Institute of Technology (スウェーデン，ストックホルム)で行われた， 22nd European Control Conferenceにて，M2の西田が研究発表を行いました．\n\n\n\n\n\n\n発表論文\n\n\n\nShumpei Nishida and Kunihisa Okano, “Sparsity-Constrained Linear Quadratic Regulation Problem: Greedy Approach with Performance Guarantee,” Proc. European Control Conference, pp. 3605–3610, 2024."
+  },
+  {
+    "objectID": "posts/20240524.html",
+    "href": "posts/20240524.html",
+    "title": "🎉 システム制御情報学会学会賞 論文賞を受賞しました",
+    "section": "",
+    "text": "システム制御情報学会論文誌に掲載された下記論文が，システム制御情報学会学会賞 論文賞に選ばれました．\n本論文は，イベントトリガ制御系において，イベント発生時刻の情報を有限データレートで表現することにより，極低ビットの情報で制御系の安定化が可能になることを明らかにしたものです．\n共著者の皆様，本論文を評価してくださった学会関係者の皆様に感謝申し上げます．\n\n\n\n\n\n\nJournal paper\n\n\n\n諏訪棟植, 岡野訓尚, 平田健太郎, 中村幸紀, “有限データレート信号と通信時刻情報を用いた離散時間線形システムの安定化,” システム制御情報学会論文誌, vol. 36, no. 2, pp. 40–47, 2023."
+  },
+  {
+    "objectID": "posts/20240322.html",
+    "href": "posts/20240322.html",
+    "title": "🎓 2023年度 卒業・修了式",
+    "section": "",
+    "text": "2023年度の卒業式，修了式がありました． 本研究室からは学士8名が卒業されました．おめでとうございます．\nまた，河田君が計測自動制御学会 優秀学生賞を受賞しました．おめでとうございます．"
+  },
+  {
+    "objectID": "posts/20231221.html",
+    "href": "posts/20231221.html",
+    "title": "🕺RCC 12月研究会で西田が発表しました",
+    "section": "",
+    "text": "沖縄で行われた，電子情報通信学会 高信頼制御通信研究専門委員会 (RCC) 12月研究会にて，M1の西田が発表しました．\n\n\n\n\n\n\n学会発表\n\n\n\n西田隼平, 岡野訓尚, “アクチュエーション信号の伝達コストを考慮した最適制御,” 2023年12月高信頼制御通信研究会, pp. 76–79, みんなの貸会議室 那覇泉崎店, 2023年12月. (信学技法 RCC2023-36)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "サイバーフィジカルシステム研究室",
@@ -18,21 +46,14 @@
     "href": "index.html#news",
     "title": "サイバーフィジカルシステム研究室",
     "section": "News",
-    "text": "News\n\n\n\n\n\n\n\n\n\n\n🕺SCI’24にて武内，鈴木が発表しました\n\n\n\n\n\n\n\n\n\nMay 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎉 システム制御情報学会学会賞 論文賞を受賞しました\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🥳 IEEE Control Systems Lettersに論文が採録されました\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎓 2023年度 卒業・修了式\n\n\n\n\n\n\n\n\n\nMar 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🕺MSCS 2024にて河田が発表しました\n\n\n\n\n\n\n\n\n\nMar 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🕺RCC 12月研究会で西田が発表しました\n\n\n\n\n\n\n\n\n\nDec 21, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "News\n\n\n\n\n\n\n\n\n\n\n🕺ECC24にて西田が発表しました\n\n\n\n\n\n\n\n\n\nJun 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🕺SCI’24にて武内，鈴木が発表しました\n\n\n\n\n\n\n\n\n\nMay 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎉 システム制御情報学会学会賞 論文賞を受賞しました\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🥳 IEEE Control Systems Lettersに論文が採録されました\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎓 2023年度 卒業・修了式\n\n\n\n\n\n\n\n\n\nMar 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🕺MSCS 2024にて河田が発表しました\n\n\n\n\n\n\n\n\n\nMar 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🕺RCC 12月研究会で西田が発表しました\n\n\n\n\n\n\n\n\n\nDec 21, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/20240322.html",
-    "href": "posts/20240322.html",
-    "title": "🎓 2023年度 卒業・修了式",
+    "objectID": "posts/20240318.html",
+    "href": "posts/20240318.html",
+    "title": "🕺MSCS 2024にて河田が発表しました",
     "section": "",
-    "text": "2023年度の卒業式，修了式がありました． 本研究室からは学士8名が卒業されました．おめでとうございます．\nまた，河田君が計測自動制御学会 優秀学生賞を受賞しました．おめでとうございます．"
-  },
-  {
-    "objectID": "posts/20240525.html",
-    "href": "posts/20240525.html",
-    "title": "🕺SCI’24にて武内，鈴木が発表しました",
-    "section": "",
-    "text": "大阪工業大学で行われた， 第68回 システム制御情報学会 研究発表講演会 にて，M1の武内，鈴木が研究発表を行いました．\n\n\n\n\n\n\n学会発表\n\n\n\n武内勇太朗, 岡野訓尚, 小蔵正輝, “深層展開を用いたイベントトリガ制御系設計,” 第68回システム制御情報学会研究発表講演会, 22I-4, 2024年5月.\n\n\n\n\n\n\n\n\n学会発表\n\n\n\n鈴木海都, 岡野訓尚, “KLダイバージェンスに基づく電力ネットワークにおける最適センサ配置,” 第68回システム制御情報学会研究発表講演会, 23F-6, 2024年5月."
+    "text": "広島大学で行われた，計測自動制御学会 第11回 制御部門マルチシンポジウム にて，B4の河田がポスター発表を行いました．\n\n\n\n\n\n\n学会発表\n\n\n\n河田大樹, 岡野訓尚, 平田健太郎, “ヒトの制御動作における目的関数の推定,” 第11回計測自動制御学会制御部門マルチシンポジウム, 1PS2-11, 2024年3月. (ポスター)"
   },
   {
     "objectID": "posts/20240515.html",
@@ -42,24 +63,10 @@
     "text": "Journal paper\n\n\n\nShumpei Nishida and Kunihisa Okano, “Feedback control balancing quadratic performance and input sparsity,” IEEE Control Systems Letters, 2024 (accepted)."
   },
   {
-    "objectID": "posts/20231221.html",
-    "href": "posts/20231221.html",
-    "title": "🕺RCC 12月研究会で西田が発表しました",
+    "objectID": "posts/20240525.html",
+    "href": "posts/20240525.html",
+    "title": "🕺SCI’24にて武内，鈴木が発表しました",
     "section": "",
-    "text": "沖縄で行われた，電子情報通信学会 高信頼制御通信研究専門委員会 (RCC) 12月研究会にて，M1の西田が発表しました．\n\n\n\n\n\n\n学会発表\n\n\n\n西田隼平, 岡野訓尚, “アクチュエーション信号の伝達コストを考慮した最適制御,” 2023年12月高信頼制御通信研究会, pp. 76–79, みんなの貸会議室 那覇泉崎店, 2023年12月. (信学技法 RCC2023-36)"
-  },
-  {
-    "objectID": "posts/20240524.html",
-    "href": "posts/20240524.html",
-    "title": "🎉 システム制御情報学会学会賞 論文賞を受賞しました",
-    "section": "",
-    "text": "システム制御情報学会論文誌に掲載された下記論文が，システム制御情報学会学会賞 論文賞に選ばれました．\n本論文は，イベントトリガ制御系において，イベント発生時刻の情報を有限データレートで表現することにより，極低ビットの情報で制御系の安定化が可能になることを明らかにしたものです．\n共著者の皆様，本論文を評価してくださった学会関係者の皆様に感謝申し上げます．\n\n\n\n\n\n\nJournal paper\n\n\n\n諏訪棟植, 岡野訓尚, 平田健太郎, 中村幸紀, “有限データレート信号と通信時刻情報を用いた離散時間線形システムの安定化,” システム制御情報学会論文誌, vol. 36, no. 2, pp. 40–47, 2023."
-  },
-  {
-    "objectID": "posts/20240318.html",
-    "href": "posts/20240318.html",
-    "title": "🕺MSCS 2024にて河田が発表しました",
-    "section": "",
-    "text": "広島大学で行われた，計測自動制御学会 第11回 制御部門マルチシンポジウム にて，B4の河田がポスター発表を行いました．\n\n\n\n\n\n\n学会発表\n\n\n\n河田大樹, 岡野訓尚, 平田健太郎, “ヒトの制御動作における目的関数の推定,” 第11回計測自動制御学会制御部門マルチシンポジウム, 1PS2-11, 2024年3月. (ポスター)"
+    "text": "大阪工業大学で行われた， 第68回 システム制御情報学会 研究発表講演会 にて，M1の武内，鈴木が研究発表を行いました．\n\n\n\n\n\n\n学会発表\n\n\n\n武内勇太朗, 岡野訓尚, 小蔵正輝, “深層展開を用いたイベントトリガ制御系設計,” 第68回システム制御情報学会研究発表講演会, 22I-4, 2024年5月.\n\n\n\n\n\n\n\n\n学会発表\n\n\n\n鈴木海都, 岡野訓尚, “KLダイバージェンスに基づく電力ネットワークにおける最適センサ配置,” 第68回システム制御情報学会研究発表講演会, 23F-6, 2024年5月."
   }
 ]
