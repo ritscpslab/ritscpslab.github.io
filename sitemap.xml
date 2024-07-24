@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ritscpslab.github.io/index.html</loc>
-    <lastmod>2024-07-11T08:33:47.886Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ritscpslab.github.io/posts/20240322.html</loc>
-    <lastmod>2024-06-12T04:23:12.196Z</lastmod>
+    <loc>https://ritscpslab.github.io/posts/20240719.html</loc>
+    <lastmod>2024-07-24T04:44:57.231Z</lastmod>
   </url>
   <url>
     <loc>https://ritscpslab.github.io/posts/20240525.html</loc>
-    <lastmod>2024-07-11T07:53:50.835Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ritscpslab.github.io/posts/20240628.html</loc>
-    <lastmod>2024-07-11T07:53:50.835Z</lastmod>
+    <lastmod>2024-07-24T04:11:19.417Z</lastmod>
   </url>
   <url>
     <loc>https://ritscpslab.github.io/posts/20240515.html</loc>
-    <lastmod>2024-07-11T08:33:27.171Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ritscpslab.github.io/posts/20231221.html</loc>
-    <lastmod>2024-06-12T04:23:12.196Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ritscpslab.github.io/posts/20240524.html</loc>
-    <lastmod>2024-06-12T04:25:30.847Z</lastmod>
+    <lastmod>2024-07-24T04:11:19.416Z</lastmod>
   </url>
   <url>
     <loc>https://ritscpslab.github.io/posts/20240318.html</loc>
-    <lastmod>2024-06-12T04:23:12.196Z</lastmod>
+    <lastmod>2024-07-24T04:11:19.416Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/index.html</loc>
+    <lastmod>2024-07-24T04:22:28.499Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20231221.html</loc>
+    <lastmod>2024-07-24T04:43:25.179Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20240322.html</loc>
+    <lastmod>2024-07-24T04:11:19.416Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20240524.html</loc>
+    <lastmod>2024-07-24T04:11:19.417Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20240628.html</loc>
+    <lastmod>2024-07-24T04:11:19.417Z</lastmod>
   </url>
 </urlset>
