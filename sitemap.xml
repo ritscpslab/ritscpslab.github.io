@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ritscpslab.github.io/posts/20241217.html</loc>
+    <lastmod>2024-12-20T11:49:41.211Z</lastmod>
+  </url>
+  <url>
     <loc>https://ritscpslab.github.io/posts/20241116.html</loc>
     <lastmod>2024-11-21T11:55:56.252Z</lastmod>
   </url>
@@ -38,10 +42,14 @@
   </url>
   <url>
     <loc>https://ritscpslab.github.io/posts/20240628.html</loc>
-    <lastmod>2024-11-16T10:35:16.953Z</lastmod>
+    <lastmod>2024-12-20T11:50:53.730Z</lastmod>
   </url>
   <url>
     <loc>https://ritscpslab.github.io/posts/20241009.html</loc>
     <lastmod>2024-11-16T10:35:16.958Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20241206.html</loc>
+    <lastmod>2024-12-20T12:02:50.204Z</lastmod>
   </url>
 </urlset>

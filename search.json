@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "posts/20241217.html",
+    "href": "posts/20241217.html",
+    "title": "🕺CDC2024にて西田が発表しました",
+    "section": "",
+    "text": "Allianz MiCo, Milan Convention Centre (イタリア，ミラノ)で行われた，2024 Conference on Decision and Controlにて，M2の西田が研究発表を行いました．\n\n\n\n\n\n\n発表論文\n\n\n\nShumpei Nishida and Kunihisa Okano, “Feedback Control Balancing Quadratic Performance and Input Sparsity,” IEEE Control Systems Letters, Vol.8, pp. 970–975, 2024."
+  },
+  {
     "objectID": "posts/20241116.html",
     "href": "posts/20241116.html",
     "title": "学部中間発表お疲れさまでした",
@@ -53,7 +60,7 @@
     "href": "index.html#news",
     "title": "サイバーフィジカルシステム研究室",
     "section": "News",
-    "text": "News\n\n\n\n\n\n\n\n\n学部中間発表お疲れさまでした\n\n\n\n\n\n\n\n\n\nNov 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎉 SCI学生発表賞を受賞しました\n\n\n\n\n\n\n\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🕺RCC 2024年度7月研究会で加藤が発表しました\n\n\n\n\n\n\n\n\n\nJul 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🕺ECC24にて西田が発表しました\n\n\n\n\n\n\n\n\n\nJun 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🕺SCI’24にて武内，鈴木が発表しました\n\n\n\n\n\n\n\n\n\nMay 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎉 システム制御情報学会学会賞 論文賞を受賞しました\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🥳 IEEE Control Systems Lettersに論文が採録されました\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎓 2023年度 卒業・修了式\n\n\n\n\n\n\n\n\n\nMar 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🕺MSCS 2024にて河田が発表しました\n\n\n\n\n\n\n\n\n\nMar 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🕺RCC 12月研究会で西田が発表しました\n\n\n\n\n\n\n\n\n\nDec 21, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "News\n\n\n\n\n\n\n\n\n\n\n🕺CDC2024にて西田が発表しました\n\n\n\n\n\n\n\n\n\nDec 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nM1ポスター発表お疲れさまでした\n\n\n\n\n\n\n\n\n\nDec 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n学部中間発表お疲れさまでした\n\n\n\n\n\n\n\n\n\nNov 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎉 SCI学生発表賞を受賞しました\n\n\n\n\n\n\n\n\n\nOct 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🕺RCC 2024年度7月研究会で加藤が発表しました\n\n\n\n\n\n\n\n\n\nJul 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🕺ECC24にて西田が発表しました\n\n\n\n\n\n\n\n\n\nJun 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🕺SCI’24にて武内，鈴木が発表しました\n\n\n\n\n\n\n\n\n\nMay 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎉 システム制御情報学会学会賞 論文賞を受賞しました\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🥳 IEEE Control Systems Lettersに論文が採録されました\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🎓 2023年度 卒業・修了式\n\n\n\n\n\n\n\n\n\nMar 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🕺MSCS 2024にて河田が発表しました\n\n\n\n\n\n\n\n\n\nMar 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n🕺RCC 12月研究会で西田が発表しました\n\n\n\n\n\n\n\n\n\nDec 21, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#members",
@@ -88,7 +95,7 @@
     "href": "posts/20240628.html",
     "title": "🕺ECC24にて西田が発表しました",
     "section": "",
-    "text": "KTH Royal Institute of Technology (スウェーデン，ストックホルム)で行われた， 22nd European Control Conferenceにて，M2の西田が研究発表を行いました．\n\n\n\n\n\n\n発表論文\n\n\n\nShumpei Nishida and Kunihisa Okano, “Sparsity-Constrained Linear Quadratic Regulation Problem: Greedy Approach with Performance Guarantee,” Proc. European Control Conference, pp. 3605–3610, 2024."
+    "text": "KTH Royal Institute of Technology (スウェーデン，ストックホルム)で行われた，22nd European Control Conferenceにて，M2の西田が研究発表を行いました．\n\n\n\n\n\n\n発表論文\n\n\n\nShumpei Nishida and Kunihisa Okano, “Sparsity-Constrained Linear Quadratic Regulation Problem: Greedy Approach with Performance Guarantee,” Proc. European Control Conference, pp. 3605–3610, 2024."
   },
   {
     "objectID": "posts/20241009.html",
@@ -96,5 +103,12 @@
     "title": "🎉 SCI学生発表賞を受賞しました",
     "section": "",
     "text": "第68回 システム制御情報学会 研究発表講演会 において、下記の発表がSCI学生発表賞 に選ばれました．\n\n\n\n\n\n\n学会発表\n\n\n\n鈴木海都, 岡野訓尚, “KLダイバージェンスに基づく電力ネットワークにおける最適センサ配置,” 第68回システム制御情報学会研究発表講演会, 23F-6, 2024年5月."
+  },
+  {
+    "objectID": "posts/20241206.html",
+    "href": "posts/20241206.html",
+    "title": "M1ポスター発表お疲れさまでした",
+    "section": "",
+    "text": "M1ポスター発表お疲れさまでした．また、質疑応答のメモを取ってくださったB4の方々，ありがとうございました． 学生や先生との質疑応答を通して，沢山のアドバイスをいた抱いたと思うので，それらを今後の研究につなげていきましょう． （以下は，ポスター発表の様子です．）"
   }
 ]
