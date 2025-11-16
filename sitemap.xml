@@ -1,18 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+<<<<<<< HEAD
     <loc>https://ritscpslab.github.io/research.html</loc>
     <lastmod>2025-09-18T06:07:53.647Z</lastmod>
   </url>
   <url>
     <loc>https://ritscpslab.github.io/posts/20250918.html</loc>
     <lastmod>2025-09-26T07:46:08.659Z</lastmod>
+=======
+    <loc>https://ritscpslab.github.io/index.html</loc>
+    <lastmod>2025-11-13T15:57:12.215Z</lastmod>
+>>>>>>> 099038fbd74ead6a184082d8319c19928db663e3
   </url>
   <url>
     <loc>https://ritscpslab.github.io/posts/20250322.html</loc>
-    <lastmod>2025-09-18T06:07:53.618Z</lastmod>
+    <lastmod>2025-11-13T15:54:30.211Z</lastmod>
   </url>
   <url>
+    <loc>https://ritscpslab.github.io/posts/20240318.html</loc>
+    <lastmod>2025-11-13T15:54:30.209Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20240719.html</loc>
+    <lastmod>2025-11-13T15:54:30.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20240524.html</loc>
+    <lastmod>2025-11-13T15:54:30.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20241217.html</loc>
+    <lastmod>2025-11-13T15:54:30.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20231221.html</loc>
+    <lastmod>2025-11-13T15:54:30.209Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20241116.html</loc>
+    <lastmod>2025-11-13T15:54:30.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20250304_1.html</loc>
+    <lastmod>2025-11-13T15:54:30.211Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20250304.html</loc>
+    <lastmod>2025-11-13T15:54:30.210Z</lastmod>
+  </url>
+  <url>
+<<<<<<< HEAD
     <loc>https://ritscpslab.github.io/posts/20250304.html</loc>
     <lastmod>2025-09-18T06:07:53.617Z</lastmod>
   </url>
@@ -91,5 +129,53 @@
   <url>
     <loc>https://ritscpslab.github.io/posts/20251116.html</loc>
     <lastmod>2025-11-16T12:07:10.314Z</lastmod>
+=======
+    <loc>https://ritscpslab.github.io/posts/20250918.html</loc>
+    <lastmod>2025-11-13T15:54:30.211Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/research.html</loc>
+    <lastmod>2025-11-13T15:54:30.221Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20241009.html</loc>
+    <lastmod>2025-11-13T15:54:30.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20240515.html</loc>
+    <lastmod>2025-11-13T15:54:30.209Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20240628.html</loc>
+    <lastmod>2025-11-13T15:54:30.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20250218.html</loc>
+    <lastmod>2025-11-13T15:54:30.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20250130.html</loc>
+    <lastmod>2025-11-13T15:54:30.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20240525.html</loc>
+    <lastmod>2025-11-13T15:54:30.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20240322.html</loc>
+    <lastmod>2025-11-13T15:54:30.209Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20250527.html</loc>
+    <lastmod>2025-11-13T15:54:30.211Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/posts/20241206.html</loc>
+    <lastmod>2025-11-13T15:54:30.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritscpslab.github.io/member.html</loc>
+    <lastmod>2025-11-13T15:54:30.209Z</lastmod>
+>>>>>>> 099038fbd74ead6a184082d8319c19928db663e3
   </url>
 </urlset>
